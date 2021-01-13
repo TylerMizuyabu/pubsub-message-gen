@@ -1,0 +1,4 @@
+topic: product-usage
+projectID: dummy-project
+messageInterval: 5000
+messageType: UsageRecord
